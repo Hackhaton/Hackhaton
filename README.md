@@ -1,4 +1,4 @@
-- 👋 Hi, We @Hackhaton
+- 👋 Hi, We Are JP-WS-09 From It Step Academy
 - 👀 We Are interested in Web Development
 - 🌱 We Are currently learning C#
 
